@@ -257,6 +257,13 @@
       },
       {
          "chainId": 57073,
+         "address": "0x79357c4E77Ddd7479Bc498a0AeF3A9727865f9BE",
+         "symbol": "RDTIP",
+         "name": "Real Devs Test In Prod",
+         "decimals": 18
+      },
+      {
+         "chainId": 57073,
          "address": "0xd6b04af9598162aad079c0e1c8bd1eb11cc5c6c8",
          "symbol": "BEANS",
          "name": "beans",
